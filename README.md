@@ -40,7 +40,7 @@ A simple project to demonstrate gRPC with .NET.
 
 - `Server/` - gRPC server implementation
 - `Client/` - gRPC client implementation
-- `Protos/` - Protocol Buffers definitions
+- `Common/` - Protocol Buffers, entities and dtos  definitions
 
 ## License
 
