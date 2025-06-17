@@ -1,0 +1,12 @@
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/obj/Debug/net9.0/DotNetGRPC.Common.csproj.AssemblyReference.cache
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/obj/Debug/net9.0/DotNetGRPC.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/obj/Debug/net9.0/DotNetGRPC.Common.AssemblyInfoInputs.cache
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/obj/Debug/net9.0/DotNetGRPC.Common.AssemblyInfo.cs
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/obj/Debug/net9.0/DotNetGRPC.Common.csproj.CoreCompileInputs.cache
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/bin/Debug/net9.0/DotNetGRPC.Common.deps.json
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/bin/Debug/net9.0/DotNetGRPC.Common.dll
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/bin/Debug/net9.0/DotNetGRPC.Common.pdb
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/obj/Debug/net9.0/DotNetGRPC.Common.dll
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/obj/Debug/net9.0/refint/DotNetGRPC.Common.dll
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/obj/Debug/net9.0/DotNetGRPC.Common.pdb
+/Users/jonathanlamela/Desktop/PersonalProjects/dotnet-grpc-test/DotNetGRPC.Common/obj/Debug/net9.0/ref/DotNetGRPC.Common.dll

@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+option csharp_namespace = "Common";
+
+package Supplier;
+
+// The greeting service definition.
+service SupplierProto {
+  rpc CreateSupplier (CreateSupplierRequest) returns (CreateSupplierResponse);
+  rpc GetSupplierById(GetSupplierByIdRequest) returns (GetSupplierByIdResponse);
+  rpc GetAll(GetAllRequest) returns (GetAllResponse);
+}
+
+message Supplier {
+  int32 id = 1;
+  string name = 2;
+}
+
+message CreateSupplierRequest {
+  string name = 1;
+}
+
+message CreateSupplierResponse {
+  string message = 1;
+}
+
+message GetSupplierByIdRequest {
+  int32 id = 1;
+}
+
+message GetSupplierByIdResponse {
+  string name = 1;
+  int32 id = 2;
+}
+
+message GetAllRequest {
+
+}
+
+
+message GetAllResponse {
+  repeated Supplier suppliers = 1;
+}
